@@ -20,6 +20,12 @@ nav {
     padding-bottom: 5px;
 }
 
+img {
+    max-width: 50%;
+    float: right;
+    
+}
+
 /* Styling for dropdown, https://www.w3schools.com/css/tryit.asp?filename=trycss_dropdown_button */
 .dropbtn {
     background-color: black;
